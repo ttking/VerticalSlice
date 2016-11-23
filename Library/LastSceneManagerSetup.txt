@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/RalphTest.unity
+- path: Assets/_Scenes/JermaineTest.unity
   isLoaded: 1
   isActive: 1
