@@ -1,13 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class EnemyHealth : MonoBehaviour {
+public class Targeting : MonoBehaviour {
+
     [SerializeField]
-    private float HealthPoints;
+    private GameObject[] Enemies;
+    private GameObject SelectedEnemy;
+    
+     
 
 	// Use this for initialization
-	void Start () {
-	
+	void Start ()
+    {
+	    
 	}
 	
 	// Update is called once per frame

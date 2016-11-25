@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class fireflyMovement : MonoBehaviour {
+public class FireflyMovement : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

@@ -3,6 +3,8 @@ using System.Collections;
 
 public class FireflySlowing : MonoBehaviour {
 
+    [SerializeField]
+
 	// Use this for initialization
 	void Start () {
 	
