@@ -7,8 +7,9 @@ public class CharacterData : MonoBehaviour {
     private List<SkillData> skills = new List<SkillData>();
 
     //Personal Stats
-    private float health;
-    private float mana;
+    
+    public float health;
+    public float mana;
     private float defense;
     private float magicDefense;
     private float attackPower;
